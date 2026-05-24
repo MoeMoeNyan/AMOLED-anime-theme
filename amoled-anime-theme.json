@@ -3,8 +3,8 @@
   "description": "AMOLED Rem theme",
   "authors": [
     {
-      "name": "wiwiichan",
-      "id": "725075745671479296"
+      "name": "MoeNyan",
+      "id": "289885648049930241"
     }
   ],
   "semanticColors": {
@@ -236,7 +236,7 @@
   },
   "background": {
     "url": "https://raw.githubusercontent.com/MoeMoeNyan/AMOLED-anime-theme/refs/heads/main/Denia.jpg",
-    "blur": 0.5,
+    "blur": 0.3,
     "alpha": 0.25,
     "size": "cover",
     "position": "center"
